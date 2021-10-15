@@ -1,0 +1,10 @@
+D:\Software Development\Sem 3\Rapid App Development\Assignments\Assignment1_Game\Assignment1_Game\bin\Debug\Assignment1_Game.exe.config
+D:\Software Development\Sem 3\Rapid App Development\Assignments\Assignment1_Game\Assignment1_Game\bin\Debug\Assignment1_Game.exe
+D:\Software Development\Sem 3\Rapid App Development\Assignments\Assignment1_Game\Assignment1_Game\bin\Debug\Assignment1_Game.pdb
+D:\Software Development\Sem 3\Rapid App Development\Assignments\Assignment1_Game\Assignment1_Game\obj\Debug\Assignment1_Game.csprojAssemblyReference.cache
+D:\Software Development\Sem 3\Rapid App Development\Assignments\Assignment1_Game\Assignment1_Game\obj\Debug\Assignment1_Game.Form1.resources
+D:\Software Development\Sem 3\Rapid App Development\Assignments\Assignment1_Game\Assignment1_Game\obj\Debug\Assignment1_Game.Properties.Resources.resources
+D:\Software Development\Sem 3\Rapid App Development\Assignments\Assignment1_Game\Assignment1_Game\obj\Debug\Assignment1_Game.csproj.GenerateResource.cache
+D:\Software Development\Sem 3\Rapid App Development\Assignments\Assignment1_Game\Assignment1_Game\obj\Debug\Assignment1_Game.csproj.CoreCompileInputs.cache
+D:\Software Development\Sem 3\Rapid App Development\Assignments\Assignment1_Game\Assignment1_Game\obj\Debug\Assignment1_Game.exe
+D:\Software Development\Sem 3\Rapid App Development\Assignments\Assignment1_Game\Assignment1_Game\obj\Debug\Assignment1_Game.pdb
